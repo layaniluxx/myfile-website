@@ -1,0 +1,60 @@
+body {
+    background-color: lightpink;
+    background-image: url(paper.gif);
+    background-image: url(michi.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: rgb(243, 143, 233);
+    color: rgb(255, 30, 173);
+    margin-left: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: black;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px;
+}
+p.one {
+    border-style: solid;
+    border-width: 8px;
+    border-color:blueviolet;
+    padding: 5px;
+    word-spacing: 10px;
+}
+p {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    background-image: url(paper.gif);
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 80px;
+    text-align: center;
+    text-indent: 50px;
+    letter-spacing: 3px;
+
+}
+
+i {
+    background-color: rgb(193, 152, 232);
+    border-style: solid;
+    border-width: 8px;
+    border-color:blueviolet;
+    padding: 5px;
+    word-spacing: 10px;
+
+}
+
+img.a {
+    vertical-align: baseline;
+}
+
+img.b {
+    vertical-align: text-top;
+}
+
